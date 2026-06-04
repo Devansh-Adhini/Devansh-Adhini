@@ -25,3 +25,7 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/Devansh-Adhini/Devansh-Adhini/output/github-snake.svg">
 </picture>
+
+## Vibing to
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fzpekc2hn3ka66uvttmtut5jqe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
