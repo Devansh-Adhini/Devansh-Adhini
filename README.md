@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Contribution Snake
+## Thanks for Stalking me
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
