@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Devansh-Adhini/Devansh-Adhini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Devansh-Adhini/Devansh-Adhini/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Devansh-Adhini/Devansh-Adhini/output/github-snake.svg">
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Devansh-Adhini/Devansh-Adhini/output/github-snake.svg">
+</picture>
