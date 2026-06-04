@@ -28,6 +28,5 @@ Here are some ideas to get you started:
 
 ## Vibing to
 <p align="center">
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fzpekc2hn3ka66uvttmtut5jqe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 <\p>
