@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 
 ## Thanks for Stalking me
+<img src="https://komarev.com/ghpvc/?username=Devansh-Adhini&label=PROFILE+VIEWS&color=00e6d3&style=flat" alt="Devansh-Adhini" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
