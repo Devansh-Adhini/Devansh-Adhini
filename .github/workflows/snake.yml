@@ -2,8 +2,13 @@
 name: Generate Snake
 
 on:
+  push:
+    branches:
+      - main
+
   schedule:
     - cron: "0 */12 * * *"
+
   workflow_dispatch:
 
 permissions:
@@ -15,7 +20,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate Snake Animation
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Devansh-Adhini
@@ -23,11 +28,11 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Deploy Snake Animation
+      - name: Deploy Snake
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "Update GitHub contribution snake"
+          commit_message: "Update contribution snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
