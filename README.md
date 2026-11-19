@@ -1,49 +1,51 @@
-<!-- Upload this README and the assets folder to Devansh-Adhini/Devansh-Adhini. -->
+<h1 align="center">Devansh Adhini</h1>
 
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Devansh Adhini — full stack, blockchain, and AI. Welcome to /home/devansh." />
+  <samp>Thanks for Stalking me</samp><br /><br />
+  <img src="https://komarev.com/ghpvc/?username=Devansh-Adhini&amp;label=PROFILE+VIEWS&amp;color=00e6d3&amp;style=flat" alt="Devansh-Adhini profile views" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devansh-Adhini/Devansh-Adhini/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devansh-Adhini/Devansh-Adhini/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Devansh-Adhini/Devansh-Adhini/output/github-snake.svg" width="100%" alt="GitHub contribution grid snake animation" />
+</picture>
+
+<h3 align="center">Vibing to</h3>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31fzpekc2hn3ka66uvttmtut5jqe">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fzpekc2hn3ka66uvttmtut5jqe&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false" width="250" alt="What Devansh is listening to on Spotify" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://devansh-adhini.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-00e6d3?style=for-the-badge&amp;logo=githubpages&amp;logoColor=071018" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/devansh-adhini/"><img src="https://img.shields.io/badge/LINKEDIN-0b121b?style=for-the-badge&amp;logoColor=00e6d3" alt="LinkedIn" /></a>
-  <a href="mailto:devanshadhinilinkedin@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-0b121b?style=for-the-badge&amp;logo=gmail&amp;logoColor=00e6d3" alt="Email Devansh" /></a>
-  <a href="https://leetcode.com/u/devansh_knows_better/"><img src="https://img.shields.io/badge/LEETCODE-0b121b?style=for-the-badge&amp;logo=leetcode&amp;logoColor=00e6d3" alt="LeetCode" /></a>
+  <samp><a href="https://github.com/Devansh-Adhini/Devansh-Adhini/issues/new?title=Track%20for%20the%20queue&amp;body=Track%3A%20%0AArtist%3A%20%0ALink%3A%20">pass the aux — recommend a track</a></samp>
 </p>
-
-<p align="center"><samp>building things. breaking things. figuring out why.</samp></p>
-
-## `~/about`
-
-```yaml
-name: Devansh Venkatesh Adhini
-education: B.Tech CSE · IIIT Vadodara · 2023–2027
-interests: [full stack, blockchain, artificial intelligence]
-off_screen: [chess, table tennis, Linux ricing]
-```
-
-I like making complicated ideas feel simple — from visual programming playgrounds to distributed systems and desktop companions.
-
-## `~/toolbox`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,solidity,react,nodejs,express,electron,threejs,pytorch,supabase,docker,linux,git&amp;theme=dark&amp;perline=5" alt="C++, Python, JavaScript, TypeScript, Solidity, React, Node.js, Express, Electron, Three.js, PyTorch, Supabase, Docker, Linux, and Git" />
+  <a href="https://devansh-adhini.github.io/portfolio/">Portfolio</a> &nbsp;/&nbsp;
+  <a href="https://www.linkedin.com/in/devansh-adhini/">LinkedIn</a> &nbsp;/&nbsp;
+  <a href="mailto:devanshadhinilinkedin@gmail.com">Email</a> &nbsp;/&nbsp;
+  <a href="https://leetcode.com/u/devansh_knows_better/">LeetCode</a>
 </p>
 
-<p align="center"><samp>web apps / smart contracts / local AI / systems that talk to each other</samp></p>
+## Toolbox
 
-## `~/things-i-built`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,html,css,react,nodejs,express,solidity,supabase,docker,linux,git,vscode&amp;theme=dark&amp;perline=8" alt="C++, Python, Java, JavaScript, TypeScript, HTML, CSS, React, Node.js, Express, Solidity, Supabase, Docker, Linux, Git, and VS Code" />
+</p>
 
-| Project | What’s inside |
-| :--- | :--- |
-| **[WDCCR ↗](https://github.com/Devansh-Adhini/WDCCR)** | A visual programming playground. Snap together logic with Blockly and get a hand from a Qwen-powered assistant.<br/><sub>React · Blockly · Express · Qwen</sub> |
-| **[Kuromi ↗](https://github.com/Devansh-Adhini/Kuromi)** | A desktop companion with local AI conversation, tasks, and notes. A little personality for the desktop.<br/><sub>Electron · Three.js · Ollama</sub> |
-| **[Blockchain × Edge ↗](https://github.com/Devansh-Adhini/Blockchain-Edge-Computing-HAC)** | Hierarchical access control that brings edge computing and smart contracts together.<br/><sub>Solidity · Hyperledger Besu · Docker · KubeEdge</sub> |
-| **[Portfolio ↗](https://devansh-adhini.github.io/portfolio/)** | My little corner of the web. Code, curiosity, and cursor-responsive particles.<br/><sub>JavaScript · Canvas · CSS</sub> |
+## Projects
 
-<p align="right"><a href="https://github.com/Devansh-Adhini?tab=repositories"><samp>explore the rest →</samp></a></p>
+<p align="center">
+  <a href="https://github.com/Devansh-Adhini/WDCCR">WDCCR</a> &nbsp;/&nbsp;
+  <a href="https://github.com/Devansh-Adhini/Kuromi">Kuromi</a> &nbsp;/&nbsp;
+  <a href="https://github.com/Devansh-Adhini/Blockchain-Edge-Computing-HAC">Blockchain + Edge</a>
+</p>
 
-## `~/github-telemetry`
+<details>
+  <summary>GitHub stats</summary>
 
 <p align="center">
   <a href="https://github.com/Devansh-Adhini?tab=repositories">
@@ -66,42 +68,4 @@ I like making complicated ideas feel simple — from visual programming playgrou
   </a>
 </p>
 
-## Thanks for Stalking me
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devansh-Adhini&amp;label=PROFILE+VIEWS&amp;color=00e6d3&amp;style=flat" alt="Devansh-Adhini profile views" />
-</p>
-
-<p align="center"><samp>the snake gets the commits. you get the front-row seat.</samp></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devansh-Adhini/Devansh-Adhini/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devansh-Adhini/Devansh-Adhini/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Devansh-Adhini/Devansh-Adhini/output/github-snake.svg" width="100%" alt="GitHub contribution grid snake animation" />
-</picture>
-
-## Vibing to
-
-<p align="center"><samp>the soundtrack to whatever I’m debugging.</samp></p>
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31fzpekc2hn3ka66uvttmtut5jqe">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fzpekc2hn3ka66uvttmtut5jqe&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false" width="300" alt="What Devansh is listening to on Spotify" />
-  </a>
-</p>
-
-<details>
-  <summary><samp>cat /home/devansh/.side-quests</samp></summary>
-
-  - Rice the Linux setup. Then rice it again.
-  - Find a better move over a chessboard.
-  - Turn “what if?” into a working prototype.
-  - Keep the music playing.
-
 </details>
-
-<br />
-
-<p align="center">
-  <a href="mailto:devanshadhinilinkedin@gmail.com"><img src="./assets/footer.svg" width="100%" alt="End of file. Start of a conversation — say hello to Devansh." /></a>
-</p>
