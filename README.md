@@ -1,4 +1,3 @@
-<h1 align="center">Devansh Adhini</h1>
 
 <p align="center">
   <samp>Thanks for Stalking me</samp><br /><br />
