@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h2>Thanks for Stalking me</h2><br /><br />
+  <h2 align="center">Thanks for Stalking me</h2><br /><br />
   <img src="https://komarev.com/ghpvc/?username=Devansh-Adhini&amp;label=PROFILE+VIEWS&amp;color=00e6d3&amp;style=flat" alt="Devansh-Adhini profile views" />
 </p>
 
